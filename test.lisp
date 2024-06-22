@@ -1,4 +1,5 @@
-; Hello World Comment
+;; Basic Coin Tossing Program
+;; Shamelessly ripped off the internet 
 
 (defun toss-coin ()
     "Generate a random heads or tails"
